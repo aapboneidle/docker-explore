@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>0.0.1</Version>
+    <Authors>AAP</Authors>
+    <Company />
+    <Description>Dummy function to trial build processes</Description>
+    <Copyright>AAP</Copyright>
+  </PropertyGroup>
+
+</Project>
