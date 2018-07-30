@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <Authors>Systems Engineering and Assessment Ltd.</Authors>
+    <Company>Systems Engineering and Assessment Ltd.</Company>
+    <Product>ROADflow</Product>
+    <Description>Minimal class library for testing cake builds.</Description>
+    <Copyright>2018 Systems Engineering and Assessment Ltd.</Copyright>
+    <RepositoryType>hg</RepositoryType>
+    <RepositoryUrl>https://ntc-scmmanager:8181/scm/hg/AAP/cake-build</RepositoryUrl>
+    <Version>1.2.5</Version>
+  </PropertyGroup>
+
+</Project>
