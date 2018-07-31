@@ -5,8 +5,8 @@
     <TargetFramework>netcoreapp2.0</TargetFramework>
   </PropertyGroup>
 
-  <ItemGroup>
+  <!-- <ItemGroup>
     <PackageReference Include="MyFunction" Version="0.0.1" />
-  </ItemGroup>
+  </ItemGroup> -->
 
 </Project>
