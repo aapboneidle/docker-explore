@@ -3,6 +3,7 @@
 #   but not on the target architecture (x64, arm, ...)
 # Assumptions:
 #   - only a single nuget source is required (Nexus allow hosted and proxy repos to be grouped)
+#   - run from the context of the project folder
 FROM microsoft/dotnet:sdk AS build
 WORKDIR /app
 ARG NUGET_URL=http://ubuntu-docker.dtes.tfl.gov.uk:8081/repository/nuget-hosted/
